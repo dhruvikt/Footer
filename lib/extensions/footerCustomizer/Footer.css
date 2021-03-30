@@ -1,0 +1,150 @@
+
+.footer{
+    width:100%;
+    height: 220px;
+    background-color: #1a1a1a;
+}
+.maintable{
+    width:100%;
+    height: 100%;
+    color:whitesmoke;
+}
+.aboutpart{
+    width: 25%;
+    padding: 0px 10px;
+}
+.header{
+    border-bottom:2px solid orange;
+    height:30px;
+}
+.container{
+    width: 90%;
+    height:100px;
+    display:block;
+    padding: 5px;
+}
+.aboutpart table{
+    width:100%;
+    padding: 10px;
+}
+
+.aboutpart table tbody tr{
+    padding:5px;
+    display: block;
+    width: 100%;
+    text-align: justify;
+}
+.linkpart{
+    width:30%;
+    padding: 0px 10px;
+}
+.linkpart table{
+    width: 100%;
+}
+
+.linkpart table tbody tr{
+    height: 25px;
+    display: block;
+}
+.linkpart table td{
+    width: 33%;
+    display: inline-block;
+}
+.linkpart a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.contact{
+    width:25%;
+    padding:10px;
+}
+.contact table{
+    width: 100%;
+}
+.contact table tbody tr{
+    height: 40px;
+}
+.box{
+    font-size: 18px;
+    padding:3px;
+    vertical-align: middle;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+}
+/* 
+.footer{
+    width:100%;
+    height: 220px;
+    background-color: #1a1a1a;
+}
+.maintable{
+    width:100%;
+    height: 100%;
+    color:whitesmoke;
+}
+.aboutpart{
+    width: 25%;
+    padding: 0px 10px;
+}
+.header{
+    border-bottom:2px solid orange;
+    height:30px;
+}
+.container{
+    width: 90%;
+    height:100px;
+    padding: 5px;
+
+}
+.aboutpart table{
+    width:100%;
+    padding: 10px;
+}
+
+.aboutpart table tbody tr{
+    padding:5px;
+    display: block;
+    width: 100%;
+    text-align: justify;
+}
+.linkpart{
+    width:30%;
+    padding: 0px 10px;
+}
+.linkpart table{
+    width: 100%;
+}
+
+.linkpart table tbody tr{
+    height: 25px;
+    display: block;
+}
+.linkpart table td{
+    width: 33%;
+    display: inline-block;
+}
+.linkpart a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.contact{
+    width:25%;
+    padding:10px;
+}
+.contact table{
+    width: 100%;
+}
+.contact table tbody tr{
+    height: 40px;
+}
+.box{
+    font-size: 18px;
+    padding:3px;
+    vertical-align: middle;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+} */
